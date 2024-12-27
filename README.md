@@ -1,4 +1,5 @@
 # RestPomodoro
+![image](https://github.com/user-attachments/assets/44ad5aef-8676-46e8-bf42-f8f96fdbc3f4)
 
 **RestPomodoro** is a lightweight, distraction-free timer application designed to help you manage work and rest intervals using the Pomodoro technique. Built with PyQt5 for a sleek and minimal interface, RestPomodoro ensures that you stay productive while taking regular breaks.
 
